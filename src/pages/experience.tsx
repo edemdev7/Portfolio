@@ -38,16 +38,16 @@ export default function Experience() {
       <Section>
         <Title>
           <p>../experience</p>
-          Experiência
+          Experience
           <span>
             <Briefcase /> Experience
           </span>
         </Title>
 
         <Description>
-          Sou apaixonado por criar interfaces interativas e funcionais, buscando
-          sempre aprimorar minhas habilidades e aprender novas tecnologias.
-          Estou sempre aberto a novos desafios e projetos desfiadores.
+        Je suis passionné par la création d'interfaces interactives et fonctionnelles.
+          J'ai envie d'améliorer mes compétences et d'apprendre de nouvelles technologies.
+          Je suis toujours ouvert à de nouveaux défis et à des projets stimulants.
         </Description>
 
         <TabsContainer>

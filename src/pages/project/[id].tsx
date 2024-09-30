@@ -52,14 +52,14 @@ export default function Projeto({ project }: ProjectProps) {
               <Link href={project.web}>
                 <a target="_blank">
                   <ButtonAlt>
-                    Projeto online <BsGlobe size={15} />
+                    Project online<BsGlobe size={15} />
                   </ButtonAlt>
                 </a>
               </Link>
               <Link href={project.github}>
                 <a target="_blank">
                   <ButtonAlt>
-                    Repositório <FaGithub size={17} />
+                    Repo Git <FaGithub size={17} />
                   </ButtonAlt>
                 </a>
               </Link>
@@ -70,7 +70,7 @@ export default function Projeto({ project }: ProjectProps) {
         <S.DescriptionProject>
           <div className="description">
             <Title>
-              Descrição
+              Desc
               <span>
                 <ChatCenteredText /> Description
               </span>
@@ -88,7 +88,7 @@ export default function Projeto({ project }: ProjectProps) {
           </Title>
 
           <Description style={{ textAlign: 'center' }}>
-            Tecnologias usadas no desenvolvimento do projeto.
+            Technologies utilisées pour réaliser le projet
           </Description>
 
           <S.TagsContainer>
@@ -135,7 +135,7 @@ export default function Projeto({ project }: ProjectProps) {
                 Status: <span>{project.status}</span>
               </p>
               <p>
-                Ano: <span>{project.year}</span>
+                Année: <span>{project.year}</span>
               </p>
               <h5>Preview</h5>
               <video className="preview" loop autoPlay muted playsInline>
