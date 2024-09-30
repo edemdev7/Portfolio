@@ -2,7 +2,7 @@ const works = [
   {
     id: 1,
     img: '/experience/work.svg',
-    title: 'Stage',
+    title: 'TECH-SARL',
     subTitle: 'Stage Developpeur FullStack',
     office: 'Stage',
     description:
@@ -20,9 +20,9 @@ const works = [
   {
     id: 2,
     img: '/experience/logo-ultronia.webp',
-    title: 'Ultronia',
-    subTitle: 'Desenvolvedor Front-end',
-    office: 'Freelancer',
+    title: 'ANYXTECH',
+    subTitle: 'Stage Développeur FullStack',
+    office: 'Stagiaire(Alternance)',
     description:
       'Na Ultronia, fui responsável pelo desenvolvimento Front-End. Sendo responsável pelo desenvolvimento e manutenção de aplicações utilizando ReactJS, JavaScript e Material UI. Trabalhei em colaboração com a equipe de desenvolvimento back-end, para integrar componentes front-end e back-end de nossas aplicações.',
     tags: [
@@ -32,14 +32,14 @@ const works = [
       { name: 'TypeScript', icon: '/skills/typescript.svg' },
       { name: 'React JS', icon: '/skills/react.svg' },
     ],
-    date: 'Fev 2023 - Jul 2023'
+    date: 'Sep 2023 - Fev 2024'
   },
   {
     id: 3,
     img: '/experience/logo-ultronia.webp',
-    title: 'Ultronia',
-    subTitle: 'Desenvolvedor Front-end',
-    office: 'Freelancer',
+    title: 'VALLISTECH',
+    subTitle: 'Stage Développeur FullStack',
+    office: 'Stagiaire(Alternance)',
     description:
       'Na Ultronia, fui responsável pelo desenvolvimento Front-End. Sendo responsável pelo desenvolvimento e manutenção de aplicações utilizando ReactJS, JavaScript e Material UI. Trabalhei em colaboração com a equipe de desenvolvimento back-end, para integrar componentes front-end e back-end de nossas aplicações.',
     tags: [
@@ -49,7 +49,7 @@ const works = [
       { name: 'TypeScript', icon: '/skills/typescript.svg' },
       { name: 'React JS', icon: '/skills/react.svg' },
     ],
-    date: 'Fev 2023 - Jul 2023'
+    date: 'Mars 2024 - Jul 2024'
   },
 ]
 
