@@ -9,9 +9,9 @@ import Document, {
 import { ServerStyleSheet } from 'styled-components'
 
 const meta = {
-  title: 'Evander Inácio - Desenvolvedor Front-End',
+  title: 'Edem KPOMACHI - Developpeur FUll-Stack',
   description:
-    'Desenvolvedor Front-end do Brasil. Especializado em criação de interfaces e funcionalidades para aplicativos da web usando React.js e Next.js.',
+    'Edem KPOMACHI - Developpeur FUll-Stack.',
   image:
     'https://raw.githubusercontent.com/EvanderInacio/Portfolio/main/public/ogimage.png'
 }
@@ -42,7 +42,7 @@ export default class MyDocument extends Document {
       <Html lang="pt-BR">
         <Head>
           <meta charSet="utf-8" />
-          <meta name="author" content="Evander Inácio" />
+          <meta name="author" content="Edem KPOMACHI" />
           <meta name="description" content={meta.description} />
           <meta itemProp="name" content={meta.title} />
           <meta itemProp="description" content={meta.description} />
@@ -53,7 +53,7 @@ export default class MyDocument extends Document {
           />
 
           <meta name="theme-color" content="#00d9ff" />
-          <meta name="copyright" content="Evander Inácio 2023" />
+          <meta name="copyright" content="Edem KPOMACHI 2023" />
           <meta http-equiv="content-language" content="pt-br" />
           <meta name="robots" content="index, follow" />
           <meta http-equiv="cache-control" content="no-cache" />
@@ -71,7 +71,7 @@ export default class MyDocument extends Document {
 
           <meta property="og:url" content="https://www.evander.com.br/" />
           <meta property="og:type" content="website" />
-          <meta property="og:site_name" content="Evander Inácio" />
+          <meta property="og:site_name" content="Edem KPOMACHI" />
           <meta property="og:title" content={meta.title} />
           <meta property="og:description" content={meta.description} />
           <meta property="og:image" content={meta.image} />

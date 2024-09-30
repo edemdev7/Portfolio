@@ -17,16 +17,15 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About | Evander Inácio </title>
+        <title>About | Edem KPOMACHI </title>
         <meta
           name="description"
-          content="Meu nome é Evander Inácio, sou um desenvolvedor front-end React
-          do Brasil."
+          content="Page de description ."
         />
-        <meta property="og:title" content="About | Evander Inácio" />
+        <meta property="og:title" content="About | Edem KPOMACHI" />
         <meta
           property="og:description"
-          content="Meu nome é Evander Inácio, sou um desenvolvedor front-end React do Brasil."
+          content="Je m'appelle Edem KPOMACHI, je suis un développeur full-stack originaire du Bénin."
         />
       </Head>
 
@@ -37,7 +36,7 @@ export default function About() {
         <S.AboutContainer>
           <Title>
             <p>../about</p>
-            Sobre
+            Àpropos
             <span>
               <BiUserPin /> About
             </span>
@@ -47,47 +46,47 @@ export default function About() {
             <S.AboutImage>
               <img
                 className="AboutImg"
-                src="/Evander.webp"
-                alt="Imagem de perfil Evander"
+                src="/profile-img.jpeg"
+                alt="Edem profile"
               />
 
               <div className="links">
                 <ul>
-                  <Link href={'https://github.com/EvanderInacio'}>
+                  <Link href={'https://github.com/edemdev7'}>
                     <a target="_blank" aria-label="Link para o Github">
-                      <AiFillGithub size={25} /> @EvanderInacio
+                      <AiFillGithub size={25} /> @edemdev7
                     </a>
                   </Link>
-                  <Link href={'https://www.linkedin.com/in/evander-inacio/'}>
+                  <Link href={'https://www.linkedin.com/in/edem-kpomachi-7b2189264/'}>
                     <a target="_blank" aria-label="Link para o Linkedin">
-                      <BsLinkedin size={25} /> @evander-inacio
+                      <BsLinkedin size={25} /> @edem-kpomachi
                     </a>
                   </Link>
                   <Link
-                    href={'https://api.whatsapp.com/send?phone=5511995085916'}
+                    href={'https://api.whatsapp.com/send?phone=22968548443'}
                   >
-                    <a target="_blank" aria-label="Link para o WhatsApp">
-                      <RiWhatsappFill size={25} /> +55 (11) 99508-5916
+                    <a target="_blank" aria-label="Link  WhatsApp">
+                      <RiWhatsappFill size={25} /> +229 68548443
                     </a>
                   </Link>
                   <Link
-                    href={'https://www.discordapp.com/users/evander_inacio'}
+                    href={'https://www.discordapp.com/users/edemdev'}
                   >
                     <a
                       className="dc"
                       target="_blank"
                       aria-label="Link para o Discord"
                     >
-                      <FaDiscord size={25} /> @evander_inacio
+                      <FaDiscord size={25} /> @edemdev
                     </a>
                   </Link>
-                  <Link href={'mailto:evander.20116@gmail.com'}>
+                  <Link href={'mailto:edem.kpomachi@epitech.eu'}>
                     <a
                       className="email"
                       target="_blank"
                       aria-label="Link para o email"
                     >
-                      <GrMail size={25} /> @evander.20116@gmail.com
+                      <GrMail size={25} /> @edem.kpomachi@epitech.eu
                     </a>
                   </Link>
                 </ul>
@@ -95,30 +94,24 @@ export default function About() {
 
               <S.AboutContact>
                 <h3>
-                  Vamos conversar, quem sabe criar um projeto incrível juntos?
+                Parlons-en, peut-être pourrons-nous créer ensemble un projet incroyable ?
                 </h3>
-                <p>Me mande uma mensagem! 😉</p>
+                <p>Envoyez-moi un message ! 😉</p>
                 <Link href={'/contact'}>
                   <a>
-                    <ButtonAlt>Contato</ButtonAlt>
+                    <ButtonAlt>Contact</ButtonAlt>
                   </a>
                 </Link>
               </S.AboutContact>
             </S.AboutImage>
             <S.AboutDescription>
               <p>
-                Meu nome é Evander Inácio, sou um desenvolvedor front-end React
-                do Brasil, apaixonado por projetar e codificar. Minha
-                especialidade é a criação de interfaces e funcionalidades para
-                aplicativos da web usando React.js e Next.js.
+              Je m'appelle Edem KPOMACHI, je suis un développeur full-stack
+                du Bénin, passionné par le design et le codage. Ma spécialité
+                est de créer des interfaces et des fonctionnalités pour des applications web en utilisant ....
               </p>
               <p>
-                Iniciei minha jornada na universidade com o objetivo inicial de
-                cursar Análise e Desenvolvimento de Sistemas. Sempre tive
-                interesse por computadores e uma curiosidade em relação à
-                criação de páginas web. Então, decidi unir essas duas paixões e
-                ingressei na faculdade para explorar as possibilidades da área
-                de TI.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas molestiae dignissimos, consequatur ducimus ipsum dolor dolorem molestias! Numquam, eligendi quasi aut corrupti aliquid ab modi rem itaque minima error ipsa?
               </p>
               <p>
                 Foi somente em 2021, no penúltimo semestre da faculdade, que

@@ -13,23 +13,23 @@ export function HomeHero() {
       <Content>
         <HomeText>
           <p>
-            <span>👋🏻</span> Olá, o meu nome é
+            <span>👋🏻</span> Salut!!
           </p>
           <h1>
-            Evander Inácio
+            Edem KPOMACHI
             <span className="animation">
               <Image
                 width={200}
                 height={200}
                 src="/vectors/triangle.svg"
-                alt="Imagem de um triangulo com animação de giro"
+                alt="vector"
               />
             </span>
           </h1>
           <h2>
             <Typewriter
               options={{
-                strings: ['Desenvolvedor Front-End'],
+                strings: ['Developpeur Back-end','Developpeur Full-Stack'],
                 autoStart: true,
                 loop: true,
                 skipAddStyles: true
@@ -41,7 +41,7 @@ export function HomeHero() {
             <Link href={'#projects'}>
               <ButtonPrimary>
                 <a>
-                  <b>Conheça meu portfólio </b>
+                  <b>Voir mon portfolio  </b>
                   <FiArrowRight style={{ marginBottom: '-0.3rem' }} size={20} />
                 </a>
               </ButtonPrimary>

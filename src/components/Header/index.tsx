@@ -18,7 +18,7 @@ export function Header() {
       <div className="mobile-content">
         <Link href={'/'}>
           <a>
-            <div className="logo">
+            {/* <div className="logo">
               <Image
                 className="logo"
                 width={30}
@@ -26,9 +26,9 @@ export function Header() {
                 src="/icon.svg"
                 alt="logo"
               />
-            </div>
+            </div> */}
 
-            {'Evander'.split('').map((letter, index) => {
+            {'{Edemdev}'.split('').map((letter, index) => {
               return (
                 <span key={index} className="logo-name">
                   {letter}
@@ -60,7 +60,7 @@ export function Header() {
           <li>
             <Link href={'/about'}>
               <a>
-                <span>Sobre</span>
+                <span>About</span>
               </a>
             </Link>
           </li>
@@ -68,7 +68,7 @@ export function Header() {
           <li>
             <Link href={'/experience'}>
               <a>
-                <span>Experiência</span>
+                <span>Experiences</span>
               </a>
             </Link>
           </li>
@@ -76,7 +76,7 @@ export function Header() {
           <li>
             <Link href={'/projects'}>
               <a>
-                <span>Projetos</span>
+                <span>Projects</span>
               </a>
             </Link>
           </li>
@@ -92,32 +92,12 @@ export function Header() {
           <li>
             <Link href={'/contact'}>
               <a>
-                <span>Contato</span>
+                <span>Contact</span>
               </a>
             </Link>
           </li>
         </ul>
 
-        <Icons>
-          <Link href={'https://github.com/EvanderInacio'}>
-            <a target="_blank" aria-label="Link para o Github">
-              <FiGithub />
-            </a>
-          </Link>
-          <Link href={'https://www.linkedin.com/in/evander-inacio/'}>
-            <a target="_blank" aria-label="Link para o Linkedin">
-              <FiLinkedin />
-            </a>
-          </Link>
-          <Link href={'https://api.whatsapp.com/send?phone=5511995085916'}>
-            <a
-              target="_blank"
-              aria-label="Link para entrar em contato via whatsapp"
-            >
-              <FaWhatsapp />
-            </a>
-          </Link>
-        </Icons>
       </NavMenu>
     </HeaderContainer>
   )

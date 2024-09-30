@@ -20,19 +20,19 @@ export function About() {
 
         <div className="aboutContent">
           <div className="aboutDescription">
-            <h2>Deixe-me apresentar</h2>
+            <h2>Permettez-moi de me présenter</h2>
             <p>
-              Sou um desenvolvedor front-end apaixonado por projetar e
-              codificar. Minha especialidade é a criação de interfaces e
-              funcionalidades para aplicativos da web usando React.js e Next.js.
+            Je suis un développeur full-stack  passionné par la conception et le codage.
+               Ma spécialité est la création d'interfaces et de
+              fonctionnalités pour les applications web en utilisant .
               <br />
-              Você pode conhecer mais sobre o meu perfil e o meu trabalho
-              navegando pelo website.
+              Vous pouvez en savoir plus sur mon profil et mon travail
+              en naviguant sur le site.
             </p>
 
             <strong>
-              P.S. este site é código aberto e está disponível no{' '}
-              <Link href={'https://github.com/EvanderInacio/Portfolio'}>
+              P.S. Ce site est en libre accès et est disponible à l'adresse suivante{' '}
+              <Link href={'https://github.com/edemdev7'}>
                 <a target='_blank'>Github</a>
               </Link>
             </strong>
@@ -42,7 +42,7 @@ export function About() {
             <Link href={'/contact'}>
               <a>
                 <Button>
-                  Entre em contato
+                Prendre contact
                   <TelegramLogo
                     style={{
                       marginBottom: '-0.1rem',
@@ -57,7 +57,7 @@ export function About() {
             <Link href={'/about'}>
               <a>
                 <ButtonAlternatives>
-                  Ler mais
+                  En savoir plus
                   <ArrowRight
                     style={{
                       marginBottom: '-0.1rem',

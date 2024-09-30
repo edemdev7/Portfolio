@@ -34,12 +34,12 @@ const cardSkills = [
     id: 6,
     title: 'Next JS',
     img: '/skills/next-js.svg',
-    color: '#fff'
+    color: 'white'
   },
   {
     id: 7,
-    title: 'Styled Components',
-    img: '/skills/styled-components.svg',
+    title: 'Nest JS',
+    img: '/skills/Nest.js.svg',
     color: '#9F70B8'
   },
   {
@@ -50,21 +50,51 @@ const cardSkills = [
   },
   {
     id: 9,
-    title: 'Material UI',
-    img: '/skills/material-ui.svg',
+    title: 'Mongo DB ',
+    img: '/skills/mongodb.svg',
     color: '#007fff'
   },
-  // {
-  //   id: 10,
-  //   title: 'Chakra UI',
-  //   img: '/skills/chakra-ui.svg',
-  //   color: '#51c8c5'
-  // },
   {
     id: 11,
     title: 'Git',
     img: '/skills/git.svg',
     color: '#de4736'
+  },
+  {
+    id: 12,
+    title: 'Docker',
+    img: '/skills/docker-svgrepo-com.svg',
+    color: '#007ACC'
+  },
+  {
+    id: 13,
+    title: 'Flask',
+    img: '/skills/flask-svgrepo-com.svg',
+    color: 'black'
+  },
+  {
+    id: 14,
+    title: 'Python',
+    img: '/skills/python-svgrepo-com.svg',
+    color: 'yellow'
+  },
+  {
+    id: 15,
+    title: 'Laravel',
+    img: '/skills/laravel-svgrepo-com.svg',
+    color: 'red'
+  },
+  {
+    id: 16,
+    title: 'Vue JS',
+    img: '/skills/vue-9-logo-svgrepo-com.svg',
+    color: 'green'
+  },
+  {
+    id: 17,
+    title: 'PHP',
+    img: '/skills/php2-svgrepo-com.svg',
+    color: 'white'
   },
 
 ]

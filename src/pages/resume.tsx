@@ -20,12 +20,12 @@ export default function Resume() {
   return (
     <>
       <Head>
-        <title>Resume | Evander Inácio </title>
+        <title>Resume | Edem KPOMACHI </title>
         <meta
           name="description"
           content="Aqui você poderá ver ou baixar o meu currículo."
         />
-        <meta property="og:title" content="Resume | Evander Inácio" />
+        <meta property="og:title" content="Resume | Edem KPOMACHI" />
         <meta
           property="og:description"
           content="Aqui você poderá ver ou baixar o meu currículo."
@@ -38,23 +38,23 @@ export default function Resume() {
       <Section>
         <Title>
           <p>../curriculum</p>
-          Currículo
+          CV
           <span>
             <BsFileText /> Curriculum
           </span>
         </Title>
         <Description>
-          Aqui você poderá ver ou baixar o meu currículo.
+          Vous pouvez ici consulter ou télécharger mon CV.
         </Description>
 
         <PageSection>
-          <iframe
+          {/* <iframe
             src={previewData}
             allowFullScreen
             width="740"
             height="780"
-            title="Evander Inácio"
-          />
+            title="Edem KPOMACHI"
+          /> */}
 
           <CV />
         </PageSection>

@@ -24,7 +24,7 @@ export function Skills() {
         </div>
       </Vector>
       <Title>
-        Habilidades
+      Compétences
         <span><BsCodeSquare /> Skills</span>
       </Title>
       <SkillsContainer>
