@@ -17,9 +17,9 @@ export function Contact() {
         </span>
       </Title>
       <Description>
-      I'm always open to new work opportunities or collaborating on
+      I am always open to new work opportunities or collaborating on
         some amazing new projects. Just fill in the form and
-        I'll get back to you 💪
+        I will get back to you 💪
       </Description>
 
       <ContainerContact>

@@ -23,7 +23,7 @@ export function About() {
             <h2>Permettez-moi de me présenter</h2>
             <p>
             Je suis un développeur full-stack  passionné par la conception et le codage.
-               Ma spécialité est la création d'interfaces et de
+               Ma spécialité est la création des interfaces et de
               fonctionnalités pour les applications web en utilisant .
               <br />
               Vous pouvez en savoir plus sur mon profil et mon travail
@@ -31,7 +31,7 @@ export function About() {
             </p>
 
             <strong>
-              P.S. Ce site est en libre accès et est disponible à l'adresse suivante{' '}
+              P.S. Ce site est en libre accès et est disponible à cette adresse{' '}
               <Link href={'https://github.com/edemdev7'}>
                 <a target='_blank'>Github</a>
               </Link>

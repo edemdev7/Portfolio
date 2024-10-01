@@ -55,7 +55,7 @@ export default function Projects() {
           </span>
         </T.Title>
         <T.Description>
-        Vous pouvez voir ici quelques-uns des travaux que j'ai réalisés. Parcourez
+        Vous pouvez voir ici quelques-uns des travaux que  réalisés. Parcourez
           et explorez les projets pour voir comment ils ont été créés, les technologies utilisées et les fonctionnalités mises en œuvre.
         </T.Description>
 
@@ -133,7 +133,7 @@ export default function Projects() {
             })}
 
             <p className="github">
-            Hé, hé, hé... J'en ai encore plus sur{' '}
+            Hé, hé, hé...  encore plus sur{' '}
               <a
                 href="https://github.com/edemdev7"
                 target="_blank"

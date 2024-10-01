@@ -106,7 +106,7 @@ export default function About() {
             </S.AboutImage>
             <S.AboutDescription>
               <p>
-              Je m'appelle Edem KPOMACHI, je suis un développeur full-stack
+               Edem KPOMACHI, je suis un développeur full-stack
                 du Bénin, passionné par le design et le codage. Ma spécialité
                 est de créer des interfaces et des fonctionnalités pour des applications web en utilisant ....
               </p>

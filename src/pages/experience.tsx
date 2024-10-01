@@ -45,8 +45,8 @@ export default function Experience() {
         </Title>
 
         <Description>
-        Je suis passionné par la création d'interfaces interactives et fonctionnelles.
-          J'ai envie d'améliorer mes compétences et d'apprendre de nouvelles technologies.
+        Je suis passionné par la création des interfaces interactives et fonctionnelles.
+          envie améliorer mes compétences et apprendre de nouvelles technologies.
           Je suis toujours ouvert à de nouveaux défis et à des projets stimulants.
         </Description>
 

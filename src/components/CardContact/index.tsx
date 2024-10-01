@@ -20,7 +20,7 @@ export function CardContact() {
           <div className="description">
             <h2>Parlons-en !</h2>
             <p>
-            Si vous avez des questions ou si vous souhaitez simplement dire bonjour, n'hésitez pas à me contacter.
+            Si vous avez des questions ou si vous souhaitez simplement dire bonjour, vous pouvez me
               contacter. Je ferai de mon mieux pour vous répondre !
             </p>
           </div>
