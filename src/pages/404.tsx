@@ -66,11 +66,11 @@ export default function Error() {
     <>
       <Head>
         <title>404</title>
-        <meta name="description" content="Ei! Parece que você está perdido" />
+        <meta name="description" content="Page Not Found" />
         <meta property="og:title" content="404" />
         <meta
           property="og:description"
-          content="Ei! Parece que você está perdido"
+          content="Page Not Found"
         />
       </Head>
       
@@ -78,15 +78,15 @@ export default function Error() {
         <img src="/vectors/404.svg" alt="404" />
 
         <Content>
-          <span>Ei! Parece que você está perdido :(</span>
+          <span>Hey! Looks like you're lost :(</span>
           <h1>
             {' '}
-            404 <br /> Pagina não encontrada
+            404 <br /> Page Not Found 
           </h1>
           <Link href={'/'}>
             <ButtonAlt>
               <ArrowLeft weight="bold" size={18} />
-              Voltar
+              Back
             </ButtonAlt>
           </Link>
         </Content>
