@@ -37,7 +37,7 @@ export default function Resume() {
       <ScrollTop />
       <Section>
         <Title>
-          <p>../curriculum</p>
+          <p>../edemdev/curriculum.jsx</p>
           CV
           <span>
             <BsFileText /> Curriculum

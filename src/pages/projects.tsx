@@ -48,7 +48,7 @@ export default function Projects() {
       <ScrollTop />
       <T.Section>
         <T.Title>
-          <p>../projects</p>
+          <p>../edemdev/projects.jsx</p>
           Projects
           <span>
             <HiOutlineDesktopComputer /> Projects
