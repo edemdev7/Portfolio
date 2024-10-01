@@ -98,6 +98,26 @@ export function Header() {
             </Link>
           </li>
         </ul>
+        <Icons>
+          <Link href={'https://github.com/edemdev7'}>
+            <a target="_blank" aria-label="Link  Github">
+              <FiGithub />
+            </a>
+          </Link>
+          <Link href={'https://www.linkedin.com/in/edem-kpomachi-7b2189264/'}>
+            <a target="_blank" aria-label="Link Linkedin">
+              <FiLinkedin />
+            </a>
+          </Link>
+          <Link href={'https://api.whatsapp.com/send?phone=22968548443'}>
+            <a
+              target="_blank"
+              aria-label="whatsapp"
+            >
+              <FaWhatsapp />
+            </a>
+          </Link>
+        </Icons>
 
       </NavMenu>
     </HeaderContainer>
