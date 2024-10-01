@@ -18,11 +18,11 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const messageData = {
       embeds: [
         {
-          title: 'Mensagem de Contato',
+          title: 'Taking contact message',
           color:  0x00d9ff,
           fields: [
             {
-              name: 'Nome',
+              name: 'Name',
               value: name,
               inline: true,
             },
@@ -32,7 +32,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
               inline: true,
             },
             {
-              name: 'Mensagem',
+              name: 'Message',
               value: message
             }
           ],

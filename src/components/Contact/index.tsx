@@ -10,16 +10,16 @@ export function Contact() {
   return (
     <Section>
       <Title>
-        <p>../contact</p>
-        Contato
+        <p>../contact.tsx</p>
+        Contact
         <span>
           <Envelope /> Contact
         </span>
       </Title>
       <Description>
-        Estou sempre aberto a novas oportunidades de trabalho ou colaborando em
-        alguns novos projetos incríveis. Basta preencher o formulário que
-        retornarei 💪
+      I'm always open to new work opportunities or collaborating on
+        some amazing new projects. Just fill in the form and
+        I'll get back to you 💪
       </Description>
 
       <ContainerContact>

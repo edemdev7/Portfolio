@@ -1,33 +1,33 @@
 const certificates = [
   {
     id: 1,
-    name: 'certificado-discover-conectar',
-    image:'/education/certificate/discover-conectar.png',
+    name: 'English certification',
+    image:'/education/certificate/english.png',
   },
   {
     id: 2,
-    name: 'certificado-discover-conectar',
-    image:'/education/certificate/discover-fundamentar.png',
+    name: 'Certificat de cryptage',
+    image:'/education/certificate/cryptage.png',
   },
   {
     id: 3,
-    name: 'certificado-discover-conectar',
-    image:'/education/certificate/discover-especializar.png',
+    name: 'Scientific Computing with Python',
+    image:'/education/certificate/python.png',
   },
   {
     id: 4,
-    name: 'certificado-discover-conectar',
-    image:'/education/certificate/bradesco.webp',
+    name: 'Responsive Web Design',
+    image:'/education/certificate/responsive.png',
   },
   {
     id: 5,
-    name: 'certificado-discover-conectar',
-    image:'/education/certificate/bradesco-2.webp',
+    name: 'Front End Libraries',
+    image:'/education/certificate/front.png',
   },
   {
     id: 6,
-    name: 'certificado-discover-conectar',
-    image:'/education/certificate/bradesco-3.webp',
+    name: 'JavaScript ',
+    image:'/education/certificate/js.png',
   },
 ]
 

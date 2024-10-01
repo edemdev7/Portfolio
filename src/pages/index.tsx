@@ -27,7 +27,6 @@ export default function Home() {
         <About />
         <Skills />
         <Experience />
-        <Work />
         <Projects />
         <CardContact />
       </Section>

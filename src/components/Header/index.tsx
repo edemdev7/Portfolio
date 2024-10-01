@@ -18,15 +18,15 @@ export function Header() {
       <div className="mobile-content">
         <Link href={'/'}>
           <a>
-            {/* <div className="logo">
+            <div className="logo">
               <Image
                 className="logo"
                 width={30}
                 height={30}
-                src="/icon.svg"
+                src="/icons8-code.gif"
                 alt="logo"
               />
-            </div> */}
+            </div>
 
             {'{Edemdev}'.split('').map((letter, index) => {
               return (
@@ -74,7 +74,8 @@ export function Header() {
           </li>
 
           <li>
-            <Link href={'/projects'}>
+            <Link href={'#'}>
+              {/* /projects */}
               <a>
                 <span>Projects</span>
               </a>

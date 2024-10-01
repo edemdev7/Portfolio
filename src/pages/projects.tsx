@@ -34,7 +34,7 @@ export default function Projects() {
         <title>Projects | Edem KPOMACHI </title>
         <meta
           name="description"
-          content="Adoro codificar usando ferramentas como React, NextJS, Tailwind, Styled Components e muito mais! Aqui estão alguns dos meus projetos favoritos."
+          content="Un description des projets réalisés."
         />
         <meta property="og:title" content="Projects | Edem KPOMACHI" />
         <meta
@@ -49,26 +49,25 @@ export default function Projects() {
       <T.Section>
         <T.Title>
           <p>../projects</p>
-          Projetos
+          Projects
           <span>
             <HiOutlineDesktopComputer /> Projects
           </span>
         </T.Title>
         <T.Description>
-          Aqui você poderá ver alguns dos trabalhos que eu desenvolvi. Navegue à
-          vontade e explore os projetos para ver como foram criados, as
-          tecnologias utilizadas e as funcionalidades implementadas.
+        Vous pouvez voir ici quelques-uns des travaux que j'ai réalisés. Parcourez
+          et explorez les projets pour voir comment ils ont été créés, les technologies utilisées et les fonctionnalités mises en œuvre.
         </T.Description>
 
         <S.ProjectsContainer>
           <S.ProjectsContent>
             <div className="search">
-              <p>Pesquise pelo nome do projeto</p>
+              <p>Recherche par nom de projet</p>
 
               <div className="input">
                 <input
                   type="text"
-                  placeholder="Pesquisar..."
+                  placeholder="Nom du projet..."
                   value={query}
                   onChange={handleChange}
                 />
@@ -77,7 +76,7 @@ export default function Projects() {
             </div>
 
             {!projectFilter.length && (
-              <h3 className="not-found">Projeto não encontrado 🙁</h3>
+              <h3 className="not-found">Projet non trouvé 🙁</h3>
             )}
 
             {projectFilter.map(project => {
@@ -116,7 +115,7 @@ export default function Projects() {
                       <Link href={`/project/${project.url}`}>
                         <a>
                           <T.ButtonAlternatives>
-                            Ver projeto
+                          Voir le projet
                             <ArrowRight
                               style={{
                                 marginBottom: '-0.1rem'
@@ -134,13 +133,13 @@ export default function Projects() {
             })}
 
             <p className="github">
-              Ei, ei, ei... Tenho ainda mais no{' '}
+            Hé, hé, hé... J'en ai encore plus sur{' '}
               <a
-                href="https://github.com/EvanderInacio"
+                href="https://github.com/edemdev7"
                 target="_blank"
                 rel="noreferrer"
               >
-                meu GitHub{' '}
+                mon GitHub{' '}
               </a>
               !
             </p>

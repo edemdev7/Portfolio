@@ -124,7 +124,6 @@ export default function Experience() {
           </Tabs>
         </TabsContainer>
 
-        <Work />
         <Educations />
       </Section>
       <Footer />

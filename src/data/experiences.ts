@@ -26,11 +26,12 @@ const works = [
     description:
       'Na Ultronia, fui responsável pelo desenvolvimento Front-End. Sendo responsável pelo desenvolvimento e manutenção de aplicações utilizando ReactJS, JavaScript e Material UI. Trabalhei em colaboração com a equipe de desenvolvimento back-end, para integrar componentes front-end e back-end de nossas aplicações.',
     tags: [
-      { name: 'Html', icon: '/skills/html.svg' },
-      { name: 'Css', icon: '/skills/css.svg' },
+       { name: 'Tailwind', icon: '/skills/tailwindcss.svg' },
+      { name: 'Postman', icon: '/skills/css.svg' },
       { name: 'JavaScript', icon: '/skills/javascript.svg' },
-      { name: 'TypeScript', icon: '/skills/typescript.svg' },
-      { name: 'React JS', icon: '/skills/react.svg' },
+      { name: 'PHP', icon: '/skills/php2-svgrepo-com.svg' },
+      { name: 'Vue JS', icon: '/skills/vue-9-logo-svgrepo-com.svg' },
+      { name: 'Laravel', icon: '/skills/laravel-svgrepo-com.svg' }
     ],
     date: 'Sep 2023 - Fev 2024'
   },
@@ -43,13 +44,18 @@ const works = [
     description:
       'Na Ultronia, fui responsável pelo desenvolvimento Front-End. Sendo responsável pelo desenvolvimento e manutenção de aplicações utilizando ReactJS, JavaScript e Material UI. Trabalhei em colaboração com a equipe de desenvolvimento back-end, para integrar componentes front-end e back-end de nossas aplicações.',
     tags: [
-      { name: 'Html', icon: '/skills/html.svg' },
-      { name: 'Css', icon: '/skills/css.svg' },
+      { name: 'Tailwind', icon: '/skills/tailwindcss.svg' },
+      { name: 'Postman', icon: '/skills/css.svg' },
       { name: 'JavaScript', icon: '/skills/javascript.svg' },
-      { name: 'TypeScript', icon: '/skills/typescript.svg' },
+      { name: 'PHP', icon: '/skills/php2-svgrepo-com.svg' },
       { name: 'React JS', icon: '/skills/react.svg' },
+      { name: 'Flask', icon: '/skills/flask-svgrepo-com.svg' },
+      { name: 'WordPress', icon: '/skills/laravel-svgrepo-com.svg' },
+      { name: 'Python', icon: '/skills/python-svgrepo-com.svg' },
+      { name: 'NLP', icon: '/skills/laravel-svgrepo-com.svg' },
+
     ],
-    date: 'Mars 2024 - Jul 2024'
+    date: 'Mars 2024 - June 2024'
   },
 ]
 

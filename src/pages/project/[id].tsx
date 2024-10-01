@@ -191,7 +191,7 @@ export default function Projeto({ project }: ProjectProps) {
         </S.ContainerVideo>
 
         <div className="allProjects">
-          <AllProjects title={'Veja outros projetos'} />
+          <AllProjects title={'Voir autres projets'} />
         </div>
         <Link href={'/#projects'}>
           <ButtonSecondary>
@@ -201,7 +201,7 @@ export default function Projeto({ project }: ProjectProps) {
                 weight="bold"
                 size={18}
               />{' '}
-              Voltar
+              Retour
             </a>
           </ButtonSecondary>
         </Link>
