@@ -5,7 +5,6 @@ import experiences from '../data/experiences'
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs'
 import { Footer } from '../components/Footer'
 import { Header } from '../components/Header'
-import { Work } from '../components/Work'
 import { Links } from '../components/Links'
 import { ScrollTop } from '../components/ScrollTop'
 import { Educations } from '../components/Educations'
@@ -37,7 +36,7 @@ export default function Experience() {
       <ScrollTop />
       <Section>
         <Title>
-          <p>../experience</p>
+          <p>../experience.jsx</p>
           Experience
           <span>
             <Briefcase /> Experience
@@ -45,9 +44,10 @@ export default function Experience() {
         </Title>
 
         <Description>
-        Je suis passionné par la création des interfaces interactives et fonctionnelles.
-          envie améliorer mes compétences et apprendre de nouvelles technologies.
-          Je suis toujours ouvert à de nouveaux défis et à des projets stimulants.
+        I'm passionate about creating interactive and functional interfaces.
+        I'm keen to improve my skills and learn new technologies.
+        I'm always open to new challenges and stimulating projects.
+
         </Description>
 
         <TabsContainer>

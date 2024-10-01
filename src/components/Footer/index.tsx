@@ -13,7 +13,7 @@ export function Footer() {
             <FiGithub />
           </a>
         </Link>
-        <Link href={'linkedin.com/in/edem-kpomachi-7b2189264/'}>
+        <Link href={'https://www.linkedin.com/in/edem-kpomachi-7b2189264/'}>
           <a target="_blank" aria-label=" Linkedin">
             <FiLinkedin />
           </a>

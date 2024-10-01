@@ -1,28 +1,22 @@
 const projects = [
   {
     id: 1,
-    url: 'e-shop',
-    banner: '/projects/e-shop/banner.png',
-    img: '/projects/e-shop/home.png',
-    title: 'E-Shop',
+    url: 'freeads',
+    banner: '/projects/freeads/accueil.png',
+    img: '/projects/freeads/accueil.png',
+    title: 'Freeads',
     type: 'Website',
-    icon: '/projects/e-shop/logo.svg',
-    github: 'https://github.com/EvanderInacio/E-Shop',
-    web: 'https://ecommerce-e-shop.vercel.app/',
+    icon: '/projects/freeads/accueil.png',
+    github: 'https://github.com/edemdev7/freeads',
+    web: 'https://github.com/edemdev7/freeads',
     description:
-      'Este projeto é uma implementação de um site de e-commerce completo, construído com as tecnologias Next.js, Tailwind CSS e integração de pagamentos utilizando Stripe. O objetivo é criar uma plataforma de compras online moderna, responsiva e de fácil utilização.',
+      'This is a freeads website built with Laravel 11. The project includes user authentication, profile management, an admin dashboard for managing users, categories, conditions, and locations. Users can view, create, edit, and delete their ads. The admin has the authority to manage all the aspects of the application through a dedicated dashboard.',
     tags: [
       {
-        name: 'Next JS',
-        icon: '/skills/next-js.svg',
+        name: 'Laravel',
+        icon: '/skills/laravel-svgrepo-com.svg',
         color: '#FFFFFF',
         rgb: '255, 255, 255'
-      },
-      {
-        name: 'TypeScript',
-        icon: '/skills/typescript.svg',
-        color: '#3178C6',
-        rgb: '49, 120, 198'
       },
       {
         name: 'TailwindCSS',
@@ -31,9 +25,9 @@ const projects = [
         rgb: '56, 189, 248'
       },
       {
-        name: 'Stripe',
-        icon: '/skills/stripe.svg',
-        color: '#635BFF',
+        name: 'Mysql',
+        icon: '/skills/mysql-svgrepo-com.svg',
+        color: '#fff',
         rgb: '99, 91, 255'
       },
     ],
@@ -42,131 +36,108 @@ const projects = [
         name: 'Home',
         description:
           'Homepage do site com um banner em forma de sliders que mostra os destaques de produtos existentes na loja. Cada slide destaca as características distintas de cada produto.',
-        img: '/projects/e-shop/home.png'
+        img: '/projects/freeads/accueil.png'
       },
       {
-        name: 'Lista de Produtos',
+        name: 'Ads list',
         description:
           'Homepage do site, onde são exibidos todos os produtos da loja. Explorando uma ampla gama de produtos que atendem a diversos gostos e necessidades.',
-        img: '/projects/e-shop/home-products.png'
+        img: '/projects/freeads/accueil.png'
       },
       {
-        name: 'Produto Detalhes',
+        name: 'User Profile',
         description:
           'Página de detalhes de um produto, contendo uma descrição do produto, assim como o seu preço e um imagem ilustrativa. Botão de adicionar aos favoritos ou ao carrinho.',
-        img: '/projects/e-shop/details.png'
-      },
-      {
-        name: 'Favoritos',
-        description:
-          'Página de Favoritos, o seu próprio santuário de desejos! Aqui, você tem a oportunidade de manter um registro dos produtos que capturaram o seu coração.',
-        img: '/projects/e-shop/favorite.png'
-      },
-      {
-        name: 'Carrinho',
-        description:
-          'Página do carrinho. Aqui você tem a opção de adicionar a quantidade específica de produtos que deseja, assim como visualizar todos os produtos adicionados ao carrinho e a soma dos valores de todos os produtos.',
-        img: '/projects/e-shop/cart.png'
-      },
-      {
-        name: 'Checkout',
-        description:
-          'Página com o formulário de pagamentos da plataforma stripe.',
-        img: '/projects/e-shop/stripe.png'
-      },
-      {
-        name: 'Sucesso',
-        description: 'Página de sucesso, mostra as imagens dos produtos que a pessoa compro assim como o nome dela e a quantidade de produtos comprados.',
-        img: '/projects/e-shop/success.png'
+        img: '/projects/freeads/profile.png'
       },
     ],
-    status: 'Completo',
-    year: '2023',
-    gif: '/projects/e-shop/e-shop.mp4',
-    backgroundImage: '/projects/e-shop/home.png',
+    status: 'Pas déployé',
+    year: '2024',
+    gif: '#',
+    backgroundImage: '/projects/freeads/accueil.png',
     video:
-      'https://www.youtube.com/watch?v=xotEZglo6l8&ab_channel=EvanderIn%C3%A1cio'
+      '#'
   },
 
   {
     id: 2,
-    url: 'whatsapp',
-    banner: '/projects/whatsapp/chat-emoji.png',
-    img: '/projects/whatsapp/login.png',
-    title: 'WhatsApp',
+    url: 'ShowSphere',
+    banner: '/projects/show/landing.png',
+    img: '/projects/show/landing.png',
+    title: 'ShowSphere',
     type: 'Website',
-    icon: '/projects/whatsapp/icon.svg',
-    github: 'https://github.com/EvanderInacio/WhatsApp',
-    web: 'https://whatsapp-green.vercel.app/',
+    icon: '/projects/show/landing.png',
+    github: 'https://github.com/edemdev7/C-COD-250-COT-2-3-showtime-dolores.azondjedo',
+    web: 'https://showtime-ihe5.onrender.com/',
     description:
-      'Clone do WhatsApp web, usando ReactJs e Styled Components para fazer a estilização e o firebase e suas funcionalidades como o AUTH para autenticação de usuários e FIRESTORE para armazenar as conversas de cada pessoa cadastrada.  Com a opção de dark mode para alterar o tema e assim ficar com uma interface agradável.',
+      'ShowSphere is an innovative ticket booking platform for concerts and festivals. Built with NestJS and MongoDB, it offers a seamless experience for users to explore events, manage bookings, and keep track of their favorite artists. ShowSphere also features a robust administration panel for event management and insightful booking analytics.',
     tags: [
       {
-        name: 'React Js',
-        icon: '/skills/react.svg',
-        color: '#61DAFB',
-        rgb: '97, 218, 251'
+        name: 'Nest JS',
+        icon: '/skills/Nest.js.svg',
+        color: '#FF0000',
+        rgb: '255, 255, 255'
       },
       {
-        name: 'JavaScript',
-        icon: '/skills/javascript.svg',
-        color: '#F7DF1E',
-        rgb: '247, 223, 30'
+        name: 'TailwindCSS',
+        icon: '/skills/tailwindcss.svg',
+        color: '#38BDF8',
+        rgb: '56, 189, 248'
       },
       {
-        name: 'Styled Components',
-        icon: '/skills/styled-components.svg',
-        color: '#C476AE',
-        rgb: '196, 118, 174'
+        name: 'TypeScript',
+        icon: '/skills/typescript.svg',
+        color: '#fff',
+        rgb: '99, 91, 255'
       },
       {
-        name: 'Firebase',
-        icon: '/skills/firebase.svg',
-        color: '#FFCA28',
-        rgb: '255, 202, 40'
-      }
+        name: 'MongoDB',
+        icon: '/skills/mongodb.svg',
+        color: '#008000',
+        rgb: '99, 91, 255'
+      },
     ],
     print: [
       {
-        name: 'Login',
+        name: 'Register Page',
         description:
-          'Página de login com a opção de conectar pelo google ou pelo github.',
-        img: '/projects/whatsapp/login.png'
+          'Page d\' inscription avec email et mot de passe',
+        img: '/projects/show/register.png'
       },
       {
-        name: 'Home Light',
+        name: 'Home Page',
         description:
-          'Página de início, após o usuário se autenticar, onde exibe uma mensagem de Boas-vindas, e no canto esquerdo uma lista de contatos.',
-        img: '/projects/whatsapp/home-light.png'
+          'Page d\'accueil ',
+        img: '/projects/show/home.png'
       },
       {
-        name: 'Home Dark',
-        description: 'Página inicial em sua versão dark mode.',
-        img: '/projects/whatsapp/home-dark.png'
+        name: 'Concert Detail',
+        description: 'Page de détail d\'un concert',
+        img: '/projects/show/detail.png'
       },
       {
-        name: 'Chat',
+        name: 'Tickets',
         description:
-          'Página de chat exibe a informações de um chat especifico mostrando as mensagens enviadas por você e aquelas respondidas pelo outro contato.',
-        img: '/projects/whatsapp/chat.png'
+          'Liste des tickets réservés par un utilisateur',
+        img: '/projects/show/ticket.png'
       },
       {
-        name: 'Chat Emoji',
-        description: 'Opção de escolher um emoji.',
-        img: '/projects/whatsapp/chat-emoji.png'
+        name: 'Admin page',
+        description: 'Page d\'accueil admin .',
+        img: '/projects/show/admin.png'
       },
       {
-        name: 'Novo Chat',
-        description: 'Aba com uma lista contendo a opção de escolha de um novo chat.',
-        img: '/projects/whatsapp/new-chat.png'
+        name: 'Concert Management ',
+        description: 'Gestion des concerts par un admin.',
+        img: '/projects/show/concert.png'
       }
     ],
-    status: 'Completo',
-    year: '2022',
-    gif: '/projects/whatsapp/whatsapp.mp4',
-    backgroundImage: '/projects/whatsapp/home-dark.png',
+    status: 'Déployé',
+    year: '2024',
+    gif: '/proects/whatsapp/whatsapp.mp4',
+    backgroundImage: '/projects/show/landing.png',
     video:
-      'https://www.youtube.com/watch?v=PZpp2sCm0zY&t=11s&ab_channel=EvanderIn%C3%A1cio'
+      '#'
   },
 
   {

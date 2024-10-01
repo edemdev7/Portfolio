@@ -35,7 +35,7 @@ export default function About() {
       <Section>
         <S.AboutContainer>
           <Title>
-            <p>../edemdev/about.jsx</p>
+            <p>../about.jsx</p>
             Àpropos
             <span>
               <BiUserPin /> About

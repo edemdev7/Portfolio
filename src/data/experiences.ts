@@ -6,7 +6,7 @@ const works = [
     subTitle: 'Stage Developpeur FullStack',
     office: 'Stage',
     description:
-      'Ce stage m\'a permis de connaaître les dernières technologies et bonnes pratiques en matière de développement web ',
+      'This internship has enabled me to learn about the latest technologies and best practices in web development.',
     tags: [
       { name: 'Tailwind', icon: '/skills/tailwindcss.svg' },
       { name: 'Postman', icon: '/skills/css.svg' },

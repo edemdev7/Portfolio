@@ -10,7 +10,7 @@ export function Contact() {
   return (
     <Section>
       <Title>
-        <p>../edemdev/contact.jsx</p>
+        <p>../contact.jsx</p>
         Contact
         <span>
           <Envelope /> Contact

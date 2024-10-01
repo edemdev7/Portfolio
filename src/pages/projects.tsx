@@ -48,7 +48,7 @@ export default function Projects() {
       <ScrollTop />
       <T.Section>
         <T.Title>
-          <p>../edemdev/projects.jsx</p>
+          <p>../projects.jsx</p>
           Projects
           <span>
             <HiOutlineDesktopComputer /> Projects
@@ -98,7 +98,7 @@ export default function Projects() {
                         <Image
                           width={20}
                           height={20}
-                          src={'/icon.svg'}
+                          src={'/icons8-code.gif'}
                           alt={project.title}
                         />
                         <h2>{project.title}</h2>
