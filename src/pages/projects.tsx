@@ -55,14 +55,14 @@ export default function Projects() {
           </span>
         </T.Title>
         <T.Description>
-        Vous pouvez voir ici quelques-uns des travaux que  réalisés. Parcourez
-          et explorez les projets pour voir comment ils ont été créés, les technologies utilisées et les fonctionnalités mises en œuvre.
+        Here you can see some of the work we've done. Browse
+          and explore the projects to see how they were created, the technologies used and the features implemented.
         </T.Description>
 
         <S.ProjectsContainer>
           <S.ProjectsContent>
             <div className="search">
-              <p>Recherche par nom de projet</p>
+              <p>Search by project name</p>
 
               <div className="input">
                 <input
@@ -76,7 +76,7 @@ export default function Projects() {
             </div>
 
             {!projectFilter.length && (
-              <h3 className="not-found">Projet non trouvé 🙁</h3>
+              <h3 className="not-found">Project not found 🙁</h3>
             )}
 
             {projectFilter.map(project => {
@@ -115,7 +115,7 @@ export default function Projects() {
                       <Link href={`/project/${project.url}`}>
                         <a>
                           <T.ButtonAlternatives>
-                          Voir le projet
+                          See project
                             <ArrowRight
                               style={{
                                 marginBottom: '-0.1rem'
@@ -133,13 +133,13 @@ export default function Projects() {
             })}
 
             <p className="github">
-            Hé, hé, hé...  encore plus sur{' '}
+            Hé, hé, hé...   I have more on {' '}
               <a
                 href="https://github.com/edemdev7"
                 target="_blank"
                 rel="noreferrer"
               >
-                mon GitHub{' '}
+                my Github{' '}
               </a>
               !
             </p>

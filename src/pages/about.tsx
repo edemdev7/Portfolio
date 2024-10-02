@@ -94,7 +94,7 @@ export default function About() {
 
               <S.AboutContact>
                 <h3>
-                Parlons-en, peut-être pourrons-nous créer ensemble un projet incroyable ?
+                Let's talk about it, maybe we can create an incredible project together?
                 </h3>
                 <p>Envoyez-moi un message ! 😉</p>
                 <Link href={'/contact'}>
@@ -106,44 +106,28 @@ export default function About() {
             </S.AboutImage>
             <S.AboutDescription>
               <p>
-               Edem KPOMACHI, je suis un développeur full-stack
-                du Bénin, passionné par le design et le codage. Ma spécialité
-                est de créer des interfaces et des fonctionnalités pour des applications web en utilisant ....
+              Edem KPOMACHI, I'm a full-stack developer from Benin.
+                from Benin, with a passion for design and coding. My specialty
+                is to create interfaces and functionalities for web applications using ....
               </p>
               <p>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas molestiae dignissimos, consequatur ducimus ipsum dolor dolorem molestias! Numquam, eligendi quasi aut corrupti aliquid ab modi rem itaque minima error ipsa?
               </p>
               <p>
-                Foi somente em 2021, no penúltimo semestre da faculdade, que
-                comecei a levar a programação mais a sério. Iniciei minha
-                primeira tentativa de aprender HTML e CSS, porém acabei dando
-                uma pausa após alguns meses devido à falta de tempo livre.
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id eius consequuntur sequi, rerum vero corrupti voluptate nemo magnam doloribus, nihil repellendus nobis quam suscipit ea labore veniam obcaecati necessitatibus ipsum.
               </p>
               <p>
-                No ano seguinte, em 2022, percebi que precisava definir um
-                objetivo claro. Foi então que direcionei meus esforços para
-                aprimorar minhas habilidades em HTML, CSS e JavaScript, com o
-                objetivo de construir aplicações web e aprofundar meu
-                aprendizado. Esse foi o ponto de partida para me tornar um
-                desenvolvedor web.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ab excepturi cumque quasi. Libero commodi accusantium dignissimos dolorum optio, ipsam possimus atque pariatur culpa magni, blanditiis nisi enim at. Vitae?
               </p>
               <p>
-                Em termos de minha experiência até o momento, tenho uma base
-                sólida em desenvolvimento front-end. Gosto de trabalhar com
-                React e NextJS para criar interfaces de usuário dinâmicas.
-                Trabalhei como desenvolvedor front-end freelancer,
-                utilizando ReactJS e Material UI, além de colaborar com a equipe de desenvolvimento Back-end para integrar componentes Front-end e Back-end de nossas aplicações.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt omnis eum id magni exercitationem consequuntur alias minus ea aliquid. Debitis laudantium quibusdam magni, cum exercitationem itaque? Reprehenderit dicta asperiores delectus.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia itaque nesciunt facilis delectus ratione. Repudiandae aspernatur sunt, autem impedit eveniet cum distinctio necessitatibus, dignissimos, vero ipsum rem? Minima, aperiam ab.
               </p>
               <p>
-                Continuo estudando e desenvolvendo projetos
-                pessoais para expandir meus conhecimentos, focado no ecossistema
-                Javascript para desenvolvimento Front-end utilizando ReactJS,
-                Typescript, Next.js, entre outros.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ratione praesentium maiores vel accusamus porro aspernatur odit ducimus cupiditate, magnam non voluptate, nostrum recusandae numquam iure hic mollitia optio veniam.
               </p>
               <p>
-                Estou sempre em busca de desafios e oportunidades para crescer
-                profissionalmente, e estou animado para contribuir com projetos
-                interessantes e inovadores no campo do desenvolvimento web.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque rem facere ullam magni nulla ducimus perferendis id qui non, debitis eligendi error, explicabo corporis, exercitationem ut eveniet? Fugiat, sapiente accusamus!
               </p>
             </S.AboutDescription>
           </S.AboutContent>

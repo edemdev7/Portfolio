@@ -44,7 +44,7 @@ export default function Resume() {
           </span>
         </Title>
         <Description>
-          Vous pouvez ici consulter ou télécharger mon CV.
+        You can view or download my CV here.
         </Description>
 
         <PageSection>
