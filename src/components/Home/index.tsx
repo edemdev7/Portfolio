@@ -13,7 +13,7 @@ export function HomeHero() {
       <Content>
         <HomeText>
           <p>
-            <span>👋🏻</span> Salut!!
+            <span>👋🏻</span> Hello !!!
           </p>
           <h1>
             Edem KPOMACHI
@@ -38,10 +38,10 @@ export function HomeHero() {
           </h2>
 
           <div className="button">
-            <Link href={'#projects'}>
+            <Link href={'/projects'}>
               <ButtonPrimary>
                 <a>
-                  <b>Voir mon portfolio  </b>
+                  <b>See my portfolio  </b>
                   <FiArrowRight style={{ marginBottom: '-0.3rem' }} size={20} />
                 </a>
               </ButtonPrimary>
@@ -49,7 +49,7 @@ export function HomeHero() {
           </div>
         </HomeText>
         <ImgHome>
-          <img className="home-img" src="/home.png" alt="Imagem da Home" />
+          <img className="home-img" src="/home.png" alt="Home Image" />
 
           <div className="code">
             <Image
