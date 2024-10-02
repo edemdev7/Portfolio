@@ -17,19 +17,18 @@ export function CV() {
           <CVDescription>
               <div className="aspas">&ldquo;</div>
               <p>
-              Vous pouvez télécharger mon CV en cliquant sur le bouton de téléchargement.
-              </p>
+              You can download my CV by clicking on the download button.              </p>
               <div className="profile">
                 <img src="/profile-img.jpeg" alt="Profile" />
                 <div className="name">
                   <h3>Edem KPOMACHI</h3>
-                  <span>Developpeur Full-Stack</span>
+                  <span>Developper Full-Stack</span>
                 </div>
               </div>
           </CVDescription>
           
           <Curriculum>
-            <img src="/cv.png" alt="Homem mostrando um botão de download de currículo" />
+            <img src="/cv.png" alt="cv download button" />
             <a href="/pdf/French_CV_2024_Edem_KPOMACHI -1.pdf" download>
               <ButtonSecondAlt>
                 <b>Download CV</b> <FiDownload size={20}  />

@@ -27,7 +27,7 @@ export function Educations() {
                   <S.ListImage>
                     <img src={education.logo} alt={education.subTitle} />
                     <p>
-                      Nível: <span>{education.level} </span>
+                      Level: <span>{education.level} </span>
                     </p>
                     <p>
                       Status: <span>{education.status}</span>

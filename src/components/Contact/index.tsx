@@ -45,6 +45,11 @@ export function Contact() {
                 <span>edem.kpomachi@epitech.eu</span>
               </a>
             </Link>
+            <Link href="mailto:ekpomachi@gmail.com">
+              <a target="_blank">
+                <span>ekpomachi@gmail.com</span>
+              </a>
+            </Link>
           </div>
         </ContactContent>
 

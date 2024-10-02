@@ -18,10 +18,10 @@ export function CardContact() {
         </div>
         <CardContactContent>
           <div className="description">
-            <h2>Parlons-en !</h2>
+            <h2>Let us talk about !</h2>
             <p>
-            Si vous avez des questions ou si vous souhaitez simplement dire bonjour, vous pouvez me
-              contacter. Je ferai de mon mieux pour vous répondre !
+            If you have any questions, or just want to say hello, please feel free to
+              contact me. I'll do my best to get back to you!
             </p>
           </div>
 
@@ -37,7 +37,7 @@ export function CardContact() {
 
         <Link href={'/contact'}>
           <ButtonAlt>
-          Prendre contact{' '}
+          Contact me{' '}
             <TelegramLogo
               style={{
                 marginBottom: '-0.1rem',

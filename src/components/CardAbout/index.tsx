@@ -20,18 +20,18 @@ export function About() {
 
         <div className="aboutContent">
           <div className="aboutDescription">
-            <h2>Permettez-moi de me présenter</h2>
+            <h2>Allow me to introduce myself</h2>
             <p>
-            Je suis un développeur full-stack  passionné par la conception et le codage.
-               Ma spécialité est la création des interfaces et de
-              fonctionnalités pour les applications web en utilisant .
+            I am a full-stack developer with a passion for design and coding.
+               My specialty is the creation of interfaces and
+              for web applications using .
               <br />
-              Vous pouvez en savoir plus sur mon profil et mon travail
-              en naviguant sur le site.
+              You can find out more about my profile and my work
+              by browsing the site.
             </p>
 
             <strong>
-              P.S. Ce site est en libre accès et est disponible à cette adresse{' '}
+            P.S. This site is freely available at this address{' '}
               <Link href={'https://github.com/edemdev7'}>
                 <a target='_blank'>Github</a>
               </Link>
@@ -42,7 +42,7 @@ export function About() {
             <Link href={'/contact'}>
               <a>
                 <Button>
-                Prendre contact
+               Contact me
                   <TelegramLogo
                     style={{
                       marginBottom: '-0.1rem',
@@ -57,7 +57,7 @@ export function About() {
             <Link href={'/about'}>
               <a>
                 <ButtonAlternatives>
-                  En savoir plus
+                  Know more...
                   <ArrowRight
                     style={{
                       marginBottom: '-0.1rem',
