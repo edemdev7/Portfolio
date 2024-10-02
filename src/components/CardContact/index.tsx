@@ -21,7 +21,7 @@ export function CardContact() {
             <h2>Let us talk about !</h2>
             <p>
             If you have any questions, or just want to say hello, please feel free to
-              contact me. I'll do my best to get back to you!
+              contact me. I will do my best to get back to you!
             </p>
           </div>
 
