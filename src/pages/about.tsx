@@ -94,7 +94,7 @@ export default function About() {
 
               <S.AboutContact>
                 <h3>
-                Let's talk about it, maybe we can create an incredible project together?
+                Let talk about it, maybe we can create an incredible project together?
                 </h3>
                 <p>Envoyez-moi un message ! 😉</p>
                 <Link href={'/contact'}>
@@ -106,7 +106,7 @@ export default function About() {
             </S.AboutImage>
             <S.AboutDescription>
               <p>
-              Edem KPOMACHI, I'm a full-stack developer from Benin.
+              Edem KPOMACHI, I am a full-stack developer from Benin.
                 from Benin, with a passion for design and coding. My specialty
                 is to create interfaces and functionalities for web applications using ....
               </p>
