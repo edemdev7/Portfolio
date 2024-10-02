@@ -134,7 +134,7 @@ const projects = [
     ],
     status: 'Déployé',
     year: '2024',
-    gif: '/proects/whatsapp/whatsapp.mp4',
+    gif: '#',
     backgroundImage: '/projects/show/landing.png',
     video:
       '#'
