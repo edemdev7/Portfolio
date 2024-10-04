@@ -10,7 +10,7 @@ import { BsFileText } from 'react-icons/bs'
 
 export default function Resume() {
   const resumeData =
-    'https://drive.google.com/file/d/14zRI_PuFOeA5V9u7HSoGCbd9LxShinV7/view?usp=sharing'
+    'https://thumbs2.imgbox.com/d7/97/bScAha5w_t.png'
     
 
   const previewData = `${resumeData.substr(
