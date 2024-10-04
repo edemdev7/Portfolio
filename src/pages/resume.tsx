@@ -10,7 +10,7 @@ import { BsFileText } from 'react-icons/bs'
 
 export default function Resume() {
   const resumeData =
-    'https://www.canva.com/design/DAFTFxhLLPw/ddljelrvwHm5zBTlNywJMQ/edit?utm_content=DAFTFxhLLPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
+    'https://drive.google.com/file/d/14zRI_PuFOeA5V9u7HSoGCbd9LxShinV7/view?usp=drive_link'
 
   const previewData = `${resumeData.substr(
     0,
@@ -48,13 +48,13 @@ export default function Resume() {
         </Description>
 
         <PageSection>
-          {/* <iframe
+          <iframe
             src={previewData}
             allowFullScreen
             width="740"
             height="780"
             title="Edem KPOMACHI"
-          /> */}
+          />
 
           <CV />
         </PageSection>
