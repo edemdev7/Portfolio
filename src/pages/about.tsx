@@ -106,7 +106,7 @@ export default function About() {
             </S.AboutImage>
             <S.AboutDescription>
             <p>
-                My name is Edem KPOMACHI, and I am a full-stack developer from Benin. I have a deep passion for both design and coding, which drives me to create seamless and engaging user interfaces and robust functionalities for web applications. My expertise spans technologies like React, Django, and Flask, allowing me to build dynamic web solutions that meet user needs.
+                My name is Edem KPOMACHI, and I am a full-stack developer from Benin. I have a deep passion for coding, which drives me to create seamless and engaging user interfaces and robust functionalities for web applications. My expertise spans technologies like React, Django, and Flask, allowing me to build dynamic web solutions that meet user needs.
             </p>
             <p>
                 Throughout my journey in software development, I have had the privilege of working on diverse projects that challenged me to grow and adapt. My internship at VALLISTECH was particularly transformative, where I gained hands-on experience with tools like WordPress and honed my skills in data analysis using Natural Language Processing (NLP) and web scraping techniques.
