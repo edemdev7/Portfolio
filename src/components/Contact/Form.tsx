@@ -50,7 +50,7 @@ export function Form() {
           name="name"
           id="name"
           autoComplete="name"
-          placeholder=" "
+          placeholder="SATORU Gojo"
           required
           className="input"
         />
@@ -71,7 +71,7 @@ export function Form() {
           name="email"
           autoComplete="email"
           id="email"
-          placeholder=" "
+          placeholder="yuji@gmail.com"
           className="input"
         />
         <label htmlFor="email" className="user-label">
