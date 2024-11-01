@@ -20,15 +20,18 @@ export function About() {
 
         <div className="aboutContent">
           <div className="aboutDescription">
-            <h2>Allow me to introduce myself</h2>
-            <p>
-            I am a full-stack developer with a passion for design and coding.
-               My specialty is the creation of interfaces and
-              for web applications using .
+          <h2>Allow me to introduce myself</h2>
+          <p>
+              I am Edem KPOMACHI, a full-stack developer with a deep passion for backend development and a strong foundation in AI. With a Bachelor's degree in 
+              Software Architecture and ongoing certification as a Fullstack Web and Mobile Developer, I specialize in crafting efficient and scalable solutions 
+              for web and mobile applications.
               <br />
-              You can find out more about my profile and my work
-              by browsing the site.
-            </p>
+              My expertise includes technologies such as Laravel, Django, Flask, Next.js, and React Native, enabling me to create intuitive and high-performance user 
+              interfaces and backends. 
+              <br />
+              Feel free to explore the site to learn more about my work, my projects, and my journey in software development.
+          </p>
+
 
             <strong>
             P.S. This site is freely available at this address{' '}
