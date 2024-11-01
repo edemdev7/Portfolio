@@ -105,30 +105,25 @@ export default function About() {
               </S.AboutContact>
             </S.AboutImage>
             <S.AboutDescription>
-              <p>
-              Edem KPOMACHI, I am a full-stack developer from Benin.
-                from Benin, with a passion for design and coding. My specialty
-                is to create interfaces and functionalities for web applications using ....
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas molestiae dignissimos, consequatur ducimus ipsum dolor dolorem molestias! Numquam, eligendi quasi aut corrupti aliquid ab modi rem itaque minima error ipsa?
-              </p>
-              <p>
-               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id eius consequuntur sequi, rerum vero corrupti voluptate nemo magnam doloribus, nihil repellendus nobis quam suscipit ea labore veniam obcaecati necessitatibus ipsum.
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ab excepturi cumque quasi. Libero commodi accusantium dignissimos dolorum optio, ipsam possimus atque pariatur culpa magni, blanditiis nisi enim at. Vitae?
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt omnis eum id magni exercitationem consequuntur alias minus ea aliquid. Debitis laudantium quibusdam magni, cum exercitationem itaque? Reprehenderit dicta asperiores delectus.
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia itaque nesciunt facilis delectus ratione. Repudiandae aspernatur sunt, autem impedit eveniet cum distinctio necessitatibus, dignissimos, vero ipsum rem? Minima, aperiam ab.
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ratione praesentium maiores vel accusamus porro aspernatur odit ducimus cupiditate, magnam non voluptate, nostrum recusandae numquam iure hic mollitia optio veniam.
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque rem facere ullam magni nulla ducimus perferendis id qui non, debitis eligendi error, explicabo corporis, exercitationem ut eveniet? Fugiat, sapiente accusamus!
-              </p>
+            <p>
+                My name is Edem KPOMACHI, and I am a full-stack developer from Benin. I have a deep passion for both design and coding, which drives me to create seamless and engaging user interfaces and robust functionalities for web applications. My expertise spans technologies like React, Django, and Flask, allowing me to build dynamic web solutions that meet user needs.
+            </p>
+            <p>
+                Throughout my journey in software development, I have had the privilege of working on diverse projects that challenged me to grow and adapt. My internship at VALLISTECH was particularly transformative, where I gained hands-on experience with tools like WordPress and honed my skills in data analysis using Natural Language Processing (NLP) and web scraping techniques.
+            </p>
+            <p>
+                I thrive in collaborative environments, and I believe that teamwork is essential to success in software development. My experiences have taught me the importance of clear communication and agile methodologies, enabling me to contribute effectively to team projects and deliver high-quality results.
+            </p>
+            <p>
+                As a lifelong learner, I am constantly exploring new technologies and best practices in the industry. My goal is to leverage my skills to create innovative solutions that not only address current challenges but also anticipate future needs. I am excited about the potential of technology to drive change and make a positive impact.
+            </p>
+            <p>
+                I look forward to connecting with like-minded professionals and contributing to projects that push the boundaries of what is possible in web development. Together, we can create applications that not only function well but also provide exceptional user experiences.
+            </p>
+            <p>
+                Thank you for taking the time to learn more about me. I invite you to explore my work and reach out if you are interested in collaboration or discussing new ideas!
+            </p>
+
             </S.AboutDescription>
           </S.AboutContent>
         </S.AboutContainer>
