@@ -70,7 +70,7 @@ const cardSkills = [
     id: 13,
     title: 'Flask',
     img: '/skills/flask-svgrepo-com.svg',
-    color: 'black'
+    color: '#fff'
   },
   {
     id: 14,
