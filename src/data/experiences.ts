@@ -6,7 +6,7 @@ const works = [
     subTitle: 'Stage Developpeur FullStack',
     office: 'Stage',
     description:
-      'This internship has enabled me to learn about the latest technologies and best practices in web development.',
+      'This internship has provided me with valuable insights into the latest technologies and best practices in web development. I learned how to use GitHub effectively for collaborative work and gained an understanding of the entrepreneurial landscape',
     tags: [
       { name: 'Tailwind', icon: '/skills/tailwindcss.svg' },
       { name: 'Postman', icon: '/skills/css.svg' },
@@ -24,7 +24,7 @@ const works = [
     subTitle: 'Stage Développeur FullStack',
     office: 'Stagiaire(Alternance)',
     description:
-      'Na Ultronia, fui responsável pelo desenvolvimento Front-End. Sendo responsável pelo desenvolvimento e manutenção de aplicações utilizando ReactJS, JavaScript e Material UI. Trabalhei em colaboração com a equipe de desenvolvimento back-end, para integrar componentes front-end e back-end de nossas aplicações.',
+      'During this internship, I applied my web development skills to contribute to the company\'s projects. I collaborated effectively with my team, participated in development meetings, and engaged in discussions to brainstorm web solutions.',
     tags: [
        { name: 'Tailwind', icon: '/skills/tailwindcss.svg' },
       { name: 'Postman', icon: '/skills/css.svg' },
@@ -42,7 +42,7 @@ const works = [
     subTitle: 'Stage Développeur FullStack',
     office: 'Stagiaire(Alternance)',
     description:
-      'Na Ultronia, fui responsável pelo desenvolvimento Front-End. Sendo responsável pelo desenvolvimento e manutenção de aplicações utilizando ReactJS, JavaScript e Material UI. Trabalhei em colaboração com a equipe de desenvolvimento back-end, para integrar componentes front-end e back-end de nossas aplicações.',
+      'My internship at VALLISTECH was a highly enriching experience. I had the opportunity to explore new technologies such as WordPress, NLP for data analysis, and web scraping with Flask. Additionally, I learned how to work collaboratively in an agile environment.',
     tags: [
       { name: 'Tailwind', icon: '/skills/tailwindcss.svg' },
       { name: 'Postman', icon: '/skills/css.svg' },

@@ -22,7 +22,7 @@ export function About() {
           <div className="aboutDescription">
           <h2>Allow me to introduce myself</h2>
           <p>
-              I am Edem KPOMACHI, a full-stack developer with a deep passion for backend development and a strong foundation in AI. With a Bachelor's degree in 
+              I am Edem KPOMACHI, a full-stack developer with a deep passion for backend development and a strong foundation in AI. With a Bachelor degree in 
               Software Architecture and ongoing certification as a Fullstack Web and Mobile Developer, I specialize in crafting efficient and scalable solutions 
               for web and mobile applications.
               <br />
