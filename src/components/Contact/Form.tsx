@@ -50,12 +50,12 @@ export function Form() {
           name="name"
           id="name"
           autoComplete="name"
-          placeholder="SATORU Gojo"
+          placeholder=" "
           required
           className="input"
         />
         <label htmlFor="name" className="user-label">
-          Name{' '}
+          Name: Gojo SATORU{' '}
           <span>
             <User size={15} weight="bold" />
           </span>
@@ -71,11 +71,11 @@ export function Form() {
           name="email"
           autoComplete="email"
           id="email"
-          placeholder="yuji@gmail.com"
+          placeholder=""
           className="input"
         />
         <label htmlFor="email" className="user-label">
-          Email{' '}
+          Email: Yuji@gmail.com{' '}
           <span>
             <At size={15} weight="bold" />
           </span>
